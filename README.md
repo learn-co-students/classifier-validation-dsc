@@ -4,7 +4,7 @@
 
 ## By the end of this lecture students should be able to:
 
-[ ] Calculate multiple metrics derived from confusion matrices
-[ ] Use confusion matrices to generate ROC curves
-[ ] Interpret ROC curves
-[ ] Select the optimal threshold for a model given a specific problem
+* [ ] Calculate multiple metrics derived from confusion matrices
+* [ ] Use confusion matrices to generate ROC curves
+* [ ] Interpret ROC curves
+* [ ] Select the optimal threshold for a model given a specific problem
