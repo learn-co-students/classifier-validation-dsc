@@ -1,5 +1,7 @@
 # classifier-validation-dsc
 
+## Classifier validation
+
 [slides](https://docs.google.com/presentation/d/1Vsz9pQ2cAvoKgOjRwLsFSatvz0uD2efLYPoJazg4oOY/edit?usp=sharing)
 
 ## By the end of this lecture students should be able to:
